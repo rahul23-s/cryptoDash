@@ -1,6 +1,4 @@
-# Cryptoverse - Explore the World of Cryptocurrency
-
-![CryptoDash](https://i.ibb.co/8gh5Jc8/image.png)
+# CryptoDash - Explore the World of Cryptocurrency
 
 ## Introduction
 
